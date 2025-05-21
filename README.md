@@ -24,6 +24,7 @@
 - CAD source available under Creative Commons ZERO . Public Domain License. Altium Format. 
 - Production pack (gerber/drill/bom available.
 - BOM is procurable from Digikey/Mouser as well as LCSC (Asia) with direct LCSC order codes if you want his to be partially assembled by JLCPCB.
+- pinheaders to be used are the turned pin type. Not the square Dupont style that destroys breadboards and ic sockets. Preci-Dip or equivalent.
   
 
 ![DIP2350 FRONT](https://github.com/user-attachments/assets/cd2cd542-4e73-4b8e-a0bb-81699b13926e)
