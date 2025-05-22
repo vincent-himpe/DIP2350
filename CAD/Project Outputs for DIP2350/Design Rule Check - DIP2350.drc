@@ -1,15 +1,13 @@
 Protel Design System Design Rule Check
 PCB File : C:\GitHub\DIP2350\CAD\DIP2350.PcbDoc
-Date     : 5/21/2025
-Time     : 12:11:08 PM
+Date     : 5/22/2025
+Time     : 1:06:29 PM
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (All),(IsKeepOut)
+Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
 Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=0.3mm) (All),(IsKeepOut)
-   Violation between Clearance Constraint: (0.187mm < 0.3mm) Between Pad J1-3(4.325mm,39.578mm) on Multi-Layer And Track (-12.065mm,40.64mm)(12.065mm,40.64mm) on Keep-Out Layer 
-   Violation between Clearance Constraint: (0.187mm < 0.3mm) Between Pad J1-4(-4.325mm,39.578mm) on Multi-Layer And Track (-12.065mm,40.64mm)(12.065mm,40.64mm) on Keep-Out Layer 
-Rule Violations :2
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -47,13 +45,21 @@ Rule Violations :0
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Matched Lengths(Delay Tolerance=20ps) (InNetClass('QSPI'))
+Processing Rule : Delay Constraint (Min=0ps) (Max=500ps) (InNetClass('QSPI'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=50ps) (InNetClass('QSPI'))
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
+Waived Violations Of Rule : Clearance Constraint (Gap=0.3mm) (All),(IsKeepOut)
+   Waived Violation between Clearance Constraint: (0.187mm < 0.3mm) Between Pad J1-3(4.325mm,39.578mm) on Multi-Layer And Track (-12.065mm,40.64mm)(12.065mm,40.64mm) on Keep-Out Layer Waived by Vincent Himpe at 5/22/2025 11:59:30 AMBOARD EDGE TO CONNECTOR
+   Waived Violation between Clearance Constraint: (0.187mm < 0.3mm) Between Pad J1-4(-4.325mm,39.578mm) on Multi-Layer And Track (-12.065mm,40.64mm)(12.065mm,40.64mm) on Keep-Out Layer Waived by Vincent Himpe at 5/22/2025 11:59:30 AMBOARD EDGE TO CONNECTOR
+Waived Violations :2
 
-Violations Detected : 2
-Waived Violations : 0
+
+Violations Detected : 0
+Waived Violations : 2
 Time Elapsed        : 00:00:00
