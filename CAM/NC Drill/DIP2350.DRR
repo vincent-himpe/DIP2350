@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DIP2350.PcbDoc   5/21/2025  6:53:04 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : DIP2350-RoundHoles.TXT
+ASCII SlotHoles File : DIP2350-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             9         PTH        8.80mm (0.35inch)
+T2      0.3mm (12mil)                                             Round             111       PTH        388.99mm (15.31inch)
+T3      0.4mm (16mil)                                             Round             16        PTH        13.25mm (0.52inch)
+T4      0.6mm (24mil)                                             Slot              4         PTH        36.16mm (1.42inch)
+T5      0.8mm (31mil)                                             Round             64        PTH        259.08mm (10.20inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              204
+
+Total Processing Time (hh:mm:ss) : 00:00:00

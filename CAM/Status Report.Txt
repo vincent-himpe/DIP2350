@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [DIP2350.PcbDoc]
+   Generated File[Pick Place for DIP2350.txt]
+   Generated File[Pick Place for DIP2350.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 6:53:06 PM On 5/21/2025

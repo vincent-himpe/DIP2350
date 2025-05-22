@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\GitHub\DIP2350\CAD\DIP2350.PcbDoc
-Date     : 5/20/2025
-Time     : 6:43:58 PM
+Date     : 5/21/2025
+Time     : 12:11:08 PM
 
 Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
 Rule Violations :0
@@ -47,10 +47,13 @@ Rule Violations :0
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
+Processing Rule : Matched Lengths(Delay Tolerance=20ps) (InNetClass('QSPI'))
+Rule Violations :0
+
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
 Violations Detected : 2
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00

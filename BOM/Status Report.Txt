@@ -1,0 +1,10 @@
+Output: Bill of Materials (EXCEL)
+Type  : BOM
+From  : Variant [[No Variations]] of Project [DIP2350.PrjPcb]
+   Generated File[Bill of Materials (EXCEL)-DIP2350.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 6:42:21 PM On 5/21/2025
