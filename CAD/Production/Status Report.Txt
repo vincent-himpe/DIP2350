@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Schematic Document [DIP2350.SchDoc]
+   Generated File[Bill of Materials-DIP2350.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:57:22 AM On 7/2/2025
